@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou Railson Silva Santos
 
-<!--
-**RailsonDB/RailsonDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯  Futuro Analista de Dados | Estudante de ADS 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Sobre mim
+Estudante de Análise e Desenvolvimento de Sistemas com foco em análise de dados.
+Tenho interesse em transformar dados em insights valiosos e criar soluções que ajudem empresas na tomada de decisão.
+Atualmente, venho aprofundamento meus conhecimentos em **bancos de dados, estatísitica e visualizações de dados**.
+
+---
+
+## 🚀 Tecnologias que uso
+- 🐍 **Python** → Pandas, Matplotlib, Seaborn  
+- 🧮 **SQL** → MySQL, PostgreSQL  
+- 📊 **Power BI**  
+- 🧠 **Excel Intermediário**
+
+
+*"Transformando dados em conhecimentos e decisões inteligentes."*
+
+
