@@ -12,8 +12,8 @@ Atualmente, venho aprofundamento meus conhecimentos em **bancos de dados, estat�
 ---
 
 ## 🚀 Tecnologias que uso
-- 🐍 **Python** → Pandas, Matplotlib, Seaborn  
 - 🧮 **SQL** → MySQL, PostgreSQL  
+- 🐍 **Python** → Pandas, Matplotlib, Seaborn  
 - 📊 **Power BI**  
 - 🧠 **Excel Intermediário**
 
