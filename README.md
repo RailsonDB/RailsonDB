@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Railson Silva Santos
+# 👋 Olá, me chamo Railson Silva Santos
 
 🎯  Futuro Analista de Dados | Estudante de ADS 
 
