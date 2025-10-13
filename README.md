@@ -1,23 +1,27 @@
-# 👋 Olá, me chamo Railson Silva Santos
+# 👋 Bem-vindo ao meu portfólio de analista de dados!
 
-🎯  Futuro Analista de Dados | Estudante de ADS 
-
----
-
-## 🧩 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas com foco em análise de dados.<br>
-Tenho interesse em transformar dados em insights valiosos e criar soluções que ajudem empresas na tomada de decisão.<br>
-Atualmente, venho aprofundamento meus conhecimentos em **bancos de dados, estatísitica e visualizações de dados**.<br>
-
----
-
-## 🚀 Tecnologias que uso
-- 🧮 **SQL** → MySQL, PostgreSQL  
-- 🐍 **Python** → Pandas, Matplotlib, Seaborn  
-- 📊 **Power BI**  
-- 🧠 **Excel Intermediário**
+# Atualmente sou estudante de *Análise e Desenvolvimento de Sistemas, com foco na área de **Análise de Dados. Tenho me dedicado a **aprimorar e revisar meus conhecimentos* em *SQL, Power BI, e Python, aplicando boas práticas de **limpeza, transformação e visualização de dados*.
+# Meu objetivo é transformar dados em *insights relevantes* que auxiliem na tomada de decisão e contribuam para soluções mais inteligentes e eficientes.
 
 
-*"Transformando dados em conhecimentos e decisões inteligentes."*
+## 🧠 Sobre min
+-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (EAD - Estácio)
+-- 📊 Focando em desenvolvimento de projetos voltados à área de dados
+-- 💡 Interesse: Python, SQL, Power BI, Pandas e Excel 
+-- 🚀 Buscando oportunidades para atuar como estagiário em Análise de Dados
+
+
+## 💼 Projetos
+
+- [](link-do-rep)
+- [] (link-do-rep)
+- [] ( link-do-rep)
+
+
+
+## 📫 Contato
+-- 💌 Email: railsonsilva09vd@gmail.com 
+-- 💼 LinkedIn: [Railson Silva] (link-do-linkedin)
+-- 🧠 GitHub: [@RailsonDB] (link-do-github)
 
 
