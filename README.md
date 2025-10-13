@@ -11,17 +11,16 @@
 -- 🚀 Buscando oportunidades para atuar como estagiário em Análise de Dados<br>
 
 
-## 💼 Projetos
+## 🚀 Tecnologias que uso
+- 🧮 *SQL* → MySQL, PostgreSQL  
+- 🐍 *Python* → Pandas, Matplotlib, Seaborn  
+- 📊 *Power BI*  
+- 🧠 *Excel Intermediário*
 
-- [] (link-do-rep)
-- [] (link-do-rep)
-- [] ( link-do-rep)
 
 
 
-## 📫 Contato
--- 💌 Email: railsonsilva09vd@gmail.com<br>
--- 💼 LinkedIn: [Railson Silva] (link-do-linkedin)<br>
--- 🧠 GitHub: [@RailsonDB] (link-do-github)<br>
+
+
 
 
