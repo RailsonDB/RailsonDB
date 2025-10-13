@@ -20,8 +20,8 @@
 
 
 ## 📫 Contato
--- 💌 Email: railsonsilva09vd@gmail.com 
--- 💼 LinkedIn: [Railson Silva] (link-do-linkedin)
--- 🧠 GitHub: [@RailsonDB] (link-do-github)
+-- 💌 Email: railsonsilva09vd@gmail.com<br>
+-- 💼 LinkedIn: [Railson Silva] (link-do-linkedin)<br>
+-- 🧠 GitHub: [@RailsonDB] (link-do-github)<br>
 
 
