@@ -4,7 +4,7 @@
 ## 🧠 Sobre min
 -- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (EAD - Estácio: 3° período)<br>
 -- 📊 Focando em desenvolvimento de projetos voltados à área de dados<br>
--- 💡 Interesse: Python, SQL, Power BI, Pandas e Excel <br>
+-- 💡 Interesse: Análise de Dados • Inteligência de Negócios <br>
 -- 🚀 Buscando oportunidades para atuar como estagiário em Análise de Dados<br>
 
 
