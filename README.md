@@ -12,7 +12,7 @@
 - 🧮 *SQL* → MySQL, PostgreSQL  
 - 🐍 *Python* → Pandas, Matplotlib, Seaborn  
 - 📊 *Power BI*  
-- 🧠 *Excel Intermediário*
+- 🧠 *Excel *
 
 
 
