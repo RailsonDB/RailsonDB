@@ -1,7 +1,6 @@
-# 👋 Bem-vindo ao meu portfólio de analista de dados!
-
-
 ## 🧠 Sobre min
+
+-- 👋 Olá, me chamo Railson Silva @RailsonDB
 -- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (EAD - Estácio: 3° período)<br>
 -- 📊 Focando em desenvolvimento de projetos voltados à área de dados<br>
 -- 💡 Interesse: Análise de Dados • Inteligência de Negócios • Visualização de dados  <br>
