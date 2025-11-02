@@ -9,7 +9,7 @@
 
 ## 🚀 Tecnologias que uso
 - 🧮 *SQL* → MySQL, PostgreSQL  
-- 🐍 *Python* → Pandas, Matplotlib, Seaborn  
+- 🐍 *Python* → Pandas, Matplotlib
 - 📊 *Power BI*  
 - 🧠 *Excel*
 
